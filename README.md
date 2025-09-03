@@ -57,7 +57,7 @@ A modern, AI-powered recruitment platform built with Next.js, React, and Tailwin
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/Nehan21-Gaidhani/HiringBuddy
+git clone https://github.com/AyushDhamecha/Hiring-Buddy
 ```
 
 ### 2. Install Dependencies
